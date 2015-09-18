@@ -40,7 +40,7 @@ var audrey= audrey2(myTerminalDisplay);
 //run your command and pass error objects to audrey
 
 audrey.seed(["audrey-sewcolor-text-~~"]);//tell audrey that there is a new seed
-audrey.feed("E01","I'm an eror..");
+audrey.feed("E01","I'm an error..");
 /* pass an error to audrey
  * if first param start in "W"--> print "Action warning" in yellow 
  *  "   "     "     "   "  "E"-->   "    "      error    in  red
