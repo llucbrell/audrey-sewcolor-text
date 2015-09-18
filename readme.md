@@ -18,7 +18,7 @@ This node-module redefine the older audrey-two taggy "~". Now you can use it aga
 Example
 ```
 $ npm install --save audrey-two
-  npm install --save audrey-sewcolor&text
+  npm install --save audrey-sewcolor-text
 ```
 ## Usage
 
@@ -39,7 +39,7 @@ var audrey= audrey2(myTerminalDisplay);
 
 //run your command and pass error objects to audrey
 
-audrey.seed(["audrey-sewcolor&text-~~"]);//tell audrey that there is a new seed
+audrey.seed(["audrey-sewcolor-text-~~"]);//tell audrey that there is a new seed
 audrey.feed("E01","I'm an eror..");
 /* pass an error to audrey
  * if first param start in "W"--> print "Action warning" in yellow 
