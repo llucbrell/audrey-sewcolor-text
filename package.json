@@ -1,0 +1,38 @@
+{
+  "name": "audrey-sewcolor-text",
+  "version": "1.0.0",
+  "description": "audrey-two-seed for printing conditioned colored different strings (3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llucbrell/audrey-sewcolor-text.git"
+  },
+  "keywords": [
+    "audrey",
+    "audrey-two",
+    "controll",
+    "terminal",
+    "console",
+    "controller",
+    "view",
+    "view-controller",
+    "string",
+    "strings",
+    "color",
+    "stylish",
+    "style",
+    "print",
+    "Success",
+    "Error",
+    "Warning"
+  ],
+  "author": "Lucas_C/llucbrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llucbrell/audrey-sewcolor-text/issues"
+  },
+  "homepage": "https://github.com/llucbrell/audrey-sewcolor-text#readme"
+}
