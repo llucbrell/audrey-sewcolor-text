@@ -1,6 +1,6 @@
 # audrey-sewcolor-text
 
-> Seed for audrey-two VCCLI (View-Control-->Command-Line-Interface) ^v2.0.0
+> Seed for [audrey-two](https://www.npmjs.com/package/audrey-two) VCCLI (View-Control-->Command-Line-Interface) ^v2.0.0
 
 
 ## What this seed does?
@@ -40,11 +40,11 @@ var audrey= audrey2(myTerminalDisplay);
 //run your command and pass error objects to audrey
 
 audrey.seed(["audrey-sewcolor-text-~~"]);//tell audrey that there is a new seed
-audrey.feed("E01","I'm an error..");
+audrey.err("E01","I'm an error..");
 /* pass an error to audrey
  * if first param start in "W"--> print "Action warning" in yellow 
  *  "   "     "     "   "  "E"-->   "    "      error    in  red
  *  "   "     "     "   "  "S"-->   "    "      succes   in green
  */
-audrey.talk();//run audrey to display view
+audrey.encore();//run audrey to display view
 ```
