@@ -1,6 +1,6 @@
 {
   "name": "audrey-sewcolor-text",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "audrey-two-seed for printing conditioned colored different strings (3)",
   "main": "index.js",
   "scripts": {
